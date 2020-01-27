@@ -152,7 +152,7 @@
 			<section class="proceed">
 				<div class="layout">
 					<h2>Proceed</h2>
-					<p>Book a free, no obligations call from our Cloud Communications Engineer to <br> evaluate whether QuickBlox is a fit for your project, discuss infrastructure <br> configuration and provide a license and hosting costs estimate.</p>
+					<p>Books a free, no obligations call from our Cloud Communications Engineer to <br> evaluate whether QuickBlox is a fit for your project, discuss infrastructure <br> configuration and provide a license and hosting costs estimate.</p>
 					<div class="input_form">
 						<form>
 							<div class="input">
